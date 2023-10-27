@@ -17,11 +17,5 @@ module.exports = {
   ],
   parserOptions: {
     ecmaVersion: 'latest'
-  },
-  rules: {
-    semi: ['error', 'always'],
-    'no-extra-semi': 'error',
-    'no-unexpected-multiline': 'error',
-    'semi-style': ['error', 'last']
   }
 }
